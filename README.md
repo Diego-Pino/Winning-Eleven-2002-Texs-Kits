@@ -17,10 +17,17 @@ La **Premier League** es la máxima categoría del sistema de ligas de fútbol d
 ![Premier League](https://winningeleven-games.com/uploads/teamlogos/premierleague-logo.png)
 
 
+
 | Team     | Nombre - Temporada | Kitmaker  | Download  | Previe & GameInfo  |
 | ---------| ------------------ | --------- | --------  | -----------------  |
-|<img src="https://winningeleven-games.com/uploads/teamlogos/Arsenal-FC.png" height="100" width="100">| **Arsenal** Temporada `1994` | [Pino](https://winningeleven-games.com/member.php?action=profile&uid=4) | [TEXs Kits](https://github.com/Diego-Pino/Winning-Eleven-2002-Texs-Kits/tree/master/PremierLeague) | -----------------  |
+| <img src="https://winningeleven-games.com/uploads/teamlogos/Arsenal-FC.png" height="100" width="100">| **Arsenal** Temporada `1994` | [Pino](https://winningeleven-games.com/member.php?action=profile&uid=4) | [TEXs Kits](https://github.com/Diego-Pino/Winning-Eleven-2002-Texs-Kits/tree/master/PremierLeague) | <img src="https://winningeleven-games.com/uploads/texs-kits/Arsenal-94-Home.jpg" height="100"> |
+| <img src="https://winningeleven-games.com/uploads/teamlogos/Liverpool-FC.png" height="100" width="100">| **Liverpool FC** Temporada `Decada 90s` | [Pino](https://winningeleven-games.com/member.php?action=profile&uid=4) | [TEXs Kits](https://github.com/Diego-Pino/Winning-Eleven-2002-Texs-Kits/tree/master/PremierLeague)  | <img src="https://winningeleven-games.com/uploads/texs-kits/Liverpool-90s.jpg" height="100">  |
+| <img src="https://winningeleven-games.com/uploads/teamlogos/Manchester-United-FC.png" height="100" width="100">| **ManchesterUnited** Temporada `Decada 90s`  | [Pino](https://winningeleven-games.com/member.php?action=profile&uid=4) | [TEXs Kits](https://github.com/Diego-Pino/Winning-Eleven-2002-Texs-Kits/tree/master/PremierLeague) | <img src="https://winningeleven-games.com/uploads/texs-kits/ManchesterUnited-90s.jpg" height="100">  |
 
 
 Temp Image example Markdown
 <img src="https://winningeleven-games.com/uploads/teamlogos/Arsenal-FC.png" height="100" width="100">
+
+Test image 150
+
+<img src="https://winningeleven-games.com/uploads/texs-kits/Arsenal-94-Home.jpg" height="100">
