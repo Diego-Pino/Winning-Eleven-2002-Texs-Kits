@@ -20,4 +20,4 @@ La **Premier League** es la máxima categoría del sistema de ligas de fútbol d
 
 | Team     | Nombre - Temporada | Kitmaker  | Download  | Previe & GameInfo  |
 | ---------| ------------------ | --------- | --------  | -----------------  |
-| ![Arsenal FC](https://winningeleven-games.com/uploads/teamlogos/Arsenal-FC.png {:height="150%" width="150%"}| **Arsenal** Temporada `1994` | [Pino](https://winningeleven-games.com/member.php?action=profile&uid=4) | [TEXs Kits](https://github.com/Diego-Pino/Winning-Eleven-2002-Texs-Kits/tree/master/PremierLeague) | -----------------  |
+| ![Arsenal FC](https://winningeleven-games.com/uploads/teamlogos/Arsenal-FC.png =150| **Arsenal** Temporada `1994` | [Pino](https://winningeleven-games.com/member.php?action=profile&uid=4) | [TEXs Kits](https://github.com/Diego-Pino/Winning-Eleven-2002-Texs-Kits/tree/master/PremierLeague) | -----------------  |
